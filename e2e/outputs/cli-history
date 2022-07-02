@@ -1,0 +1,11 @@
+
+
+<<< Recorded commands on Sat Jul 02 2022 11:00:39 GMT+0700 (Waktu Indonesia Barat)
+I.waitForElement('.restaurant-item', 5);
+I.seeElement('.restaurant-item');
+I.click('.restaurant__title a');
+I.seeElement('#likeButton');
+I.click('#likeButton');
+I.amOnPage('/#/like')
+I.seeElement('.restaurant-item__not__found');
+I.see('Tidak ada restaurant untuk ditampilkan', '.restaurant-item__not__found');
