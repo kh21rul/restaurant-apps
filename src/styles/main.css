@@ -71,7 +71,7 @@ body {
     display: inline-block;
     text-decoration: none;
     color: black;
-    padding: 8px;
+    padding: 15px;
     margin-bottom: 5px;
     width: 100%;
 }
@@ -200,6 +200,7 @@ main {
 .restaurant-item .restaurant-item__content h3 a {
     color: #81801B;
     text-decoration: none;
+    padding: 15px;
 }
 
 .restaurant-item .restaurant-item__content p {
@@ -297,11 +298,11 @@ footer p a {
 .skip-link {
     text-decoration: none;
     position: absolute;
-    top: -40px;
+    top: -10%;
     left: 0;
     background-color: #81801B;
     color: white;
-    padding: 8px;
+    padding: 13px;
     z-index: 100;
 }
 
