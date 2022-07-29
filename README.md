@@ -1,3 +1,3 @@
 # restaurant-apps
-Berisi project submission front end expert dicoding
+Aplikasi Katalog Restaurant
 ## Demo : [Restaurant Apps](https://restaurantapps.netlify.app/)
